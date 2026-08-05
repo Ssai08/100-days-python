@@ -1,0 +1,15 @@
+hello | example@email.com | bad
+sd | example@email.com | scccc
+asd | example@email.com | cc
+amazon | example@email.com | ddd
+hellog | example@email.com | no
+nope | example@email.com | rea
+ | example@email.com | 
+ | example@email.com | 
+asafsd | example@email.com | 123
+hello | example@email.com | 4$&KZljKJa#0&r7SK7
+sdfasdfasdf | example@email.com | BTz)q(#O6im60xf3q
+KP*h6L7(Ct(3F2SH | example@email.com | KP*h6L7(Ct(3F2SH!h9AyI2B2f)U#N3C
+kg6N(&#8T$BbsMt | example@email.com | ((L5X(4q0zy$RJbRg
+DN1Zug!pi8)yU$3Q! | example@email.com | I8*Rw%zzNB56e(
+apple tv | example@email.com | +LGF7l)Vm0R+!C3l
