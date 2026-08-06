@@ -28,6 +28,10 @@ clear_screen()
 # # Keyword Method with iterrows()
 # # {new_key:new_value for (index, row) in df.iterrows()}
 
+###################################################################
+#********************METHOD - 1***********************#
+###################################################################
+
 # #TODO 1. Create a dictionary in this format:
 # # {"A": "Alfa", "B": "Bravo"}
 # csv_data = pandas.read_csv("nato_phonetic_alphabet.csv")
